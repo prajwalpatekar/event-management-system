@@ -1,4 +1,4 @@
-# Event Management System
+# Event Management System by PNP
 
 A PHP-based event management system with MySQL integration using XAMPP.
 
@@ -37,4 +37,4 @@ A PHP-based event management system with MySQL integration using XAMPP.
 4. Manage your events and registrations from your dashboard
 5. Admins can manage all users and events from the admin dashboard
 
-PNP🙂
+--PNP🙂
